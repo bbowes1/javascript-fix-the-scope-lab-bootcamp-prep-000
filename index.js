@@ -12,7 +12,7 @@ function myAnimal() {
 }
 
 function add2(n) {
-  var 
+  var = n + 2
   return 
 }
   // Feel free to move things around!
