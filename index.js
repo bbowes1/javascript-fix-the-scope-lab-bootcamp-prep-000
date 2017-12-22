@@ -10,8 +10,9 @@ function myAnimal() {
   
  
 }
-const n
+
 function add2(n) {
+  
   return n 
 
   // Feel free to move things around!
