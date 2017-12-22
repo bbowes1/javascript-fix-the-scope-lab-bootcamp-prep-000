@@ -10,9 +10,11 @@ function myAnimal() {
   
  
 }
-var = n + 2
+
 function add2(n) {
   return n
+
+  
 }
   // Feel free to move things around!
   
