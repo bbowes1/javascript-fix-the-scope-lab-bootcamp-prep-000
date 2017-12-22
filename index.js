@@ -12,8 +12,8 @@ function myAnimal() {
 }
 
 function add2(n) {
-  const
-  return 
+  const n
+  return n + 2;
 }
   // Feel free to move things around!
   
