@@ -3,7 +3,7 @@
 function myAnimal() {
   var animal = 'dog'
   return animal 
- }
+}
 
  function yourAnimal() {
   return animal 
@@ -14,7 +14,6 @@ function myAnimal() {
 function add2(n) {
   return n
 
-  
 }
   // Feel free to move things around!
   
